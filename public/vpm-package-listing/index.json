@@ -1,0 +1,30 @@
+{
+  "name": "Hoppou Legion Gateway's Packages",
+  "author": "Hoppou Legion Gateway",
+  "url": "https://hoppou-legion-gateway.github.io/vpm-package-listing/index.json",
+  "id": "io.github.hoppou-legion-gateway.vpm-package-listing",
+  "packages": {
+    "io.github.hoppou-legion-gateway.glim": {
+      "versions": {
+        "0.6.2": {
+          "name": "io.github.hoppou-legion-gateway.glim",
+          "displayName": "Glim Lightmapper (fork)",
+          "version": "0.6.2",
+          "unity": "2022.3",
+          "description": "Lightmap Baker",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Hoppou Legion Gateway",
+            "url": "https://github.com/Hoppou-Legion-Gateway/"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "4daa9b2c8bf8053f272ead5be91640b417a7ac8f3d7ec438aab241f6c4fb1c01",
+          "url": "https://github.com/Hoppou-Legion-Gateway/glim/releases/download/v0.6.2/io.github.hoppou-legion-gateway.glim-0.6.2.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        }
+      }
+    }
+  }
+}
