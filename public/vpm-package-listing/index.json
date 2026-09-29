@@ -6,6 +6,24 @@
   "packages": {
     "io.github.hoppou-legion-gateway.glim": {
       "versions": {
+        "0.7.0": {
+          "name": "io.github.hoppou-legion-gateway.glim",
+          "displayName": "Glim Lightmapper (fork)",
+          "version": "0.7.0",
+          "unity": "2022.3",
+          "description": "Lightmap Baker",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Hoppou Legion Gateway",
+            "url": "https://github.com/Hoppou-Legion-Gateway/"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "af0cc87c2e69b0d0efb2c29c65b66b9baffe43fa92ace58736709de7e5209187",
+          "url": "https://github.com/Hoppou-Legion-Gateway/glim/releases/download/v0.7.0/io.github.hoppou-legion-gateway.glim-0.7.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
         "0.6.2": {
           "name": "io.github.hoppou-legion-gateway.glim",
           "displayName": "Glim Lightmapper (fork)",
@@ -23,6 +41,26 @@
           "url": "https://github.com/Hoppou-Legion-Gateway/glim/releases/download/v0.6.2/io.github.hoppou-legion-gateway.glim-0.6.2.zip",
           "legacyFolders": {},
           "legacyFiles": {}
+        }
+      }
+    },
+    "io.github.hoppou-legion-gateway.platformswitcher": {
+      "versions": {
+        "0.1.0": {
+          "name": "io.github.hoppou-legion-gateway.platformswitcher",
+          "displayName": "Platform Switcher",
+          "version": "0.1.0",
+          "unity": "2022.3",
+          "description": "Platform Switcher is a Unity editor tool developed for VRChat world creators, it can automate changes to components within a scene as soon as the build platform is changed from PC to Mobile or vice versa.",
+          "author": {
+            "name": "Hoppou Legion Gateway",
+            "email": "me@hoppou.dev",
+            "url": "https://github.com/Hoppou-Legion-Gateway/PlatformSwitcher"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "zipSHA256": "2ca6eb14af48a0bd55b68c6aa984be0a7123f6992066c326ca534d53a23db475",
+          "url": "https://github.com/Hoppou-Legion-Gateway/PlatformSwitcher/releases/download/v0.1.0/io.github.hoppou-legion-gateway.platformswitcher-0.1.0.zip"
         }
       }
     }
