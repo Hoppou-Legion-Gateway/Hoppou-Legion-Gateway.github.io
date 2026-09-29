@@ -6,6 +6,24 @@
   "packages": {
     "io.github.hoppou-legion-gateway.glim": {
       "versions": {
+        "0.7.1": {
+          "name": "io.github.hoppou-legion-gateway.glim",
+          "displayName": "Glim Lightmapper (fork)",
+          "version": "0.7.1",
+          "unity": "2022.3",
+          "description": "Lightmap Baker",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Hoppou Legion Gateway",
+            "url": "https://github.com/Hoppou-Legion-Gateway/"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "8bf71626591777e7f0ec8b5280069f2435108fbf34731665c1a0f7ebc7b2ef1e",
+          "url": "https://github.com/Hoppou-Legion-Gateway/glim/releases/download/v0.7.1/io.github.hoppou-legion-gateway.glim-0.7.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
         "0.7.0": {
           "name": "io.github.hoppou-legion-gateway.glim",
           "displayName": "Glim Lightmapper (fork)",
